@@ -1,4 +1,4 @@
-# Higher Level Hash Methods
+irb# Higher Level Hash Methods
 
 ## Objectives
 
